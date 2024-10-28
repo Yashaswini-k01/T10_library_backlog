@@ -4,6 +4,6 @@
 |----|--------------------------------|----------------------------------------------------------------------|----------|-------------|
 
 | 1  | Due Date Reminder              | Send reminders to users about upcoming due dates for borrowed books. | Medium   | Not Started |
-| 2 | User Profile Management        | Allow users to update their profile information.                     | Low      | Not Started |
-| 3 | Book Reservation               | Implement a reservation system for books that are currently borrowed.| Medium   | Not Started |
-| 4| Generate Reports               | Allow admins to generate reports (e.g., borrowed books, users).      | Medium   | Not Started |
+| 2 | User Profile Management         | Allow users to update their profile information.                     | Low      | Not Started |
+| 3 | Book Reservation                | Implement a reservation system for books that are currently borrowed.| Medium   | Not Started |
+| 4| Generate Reports                 | Allow admins to generate reports (e.g., borrowed books, users).      | Medium   | Not Started |
